@@ -1,5 +1,10 @@
 package kosta;
 
 public class Hello {
-	String aa2;
+
+	public static void main(String args[]) {
+		String aa;
+		System.out.println("HelloJava!!!");
+	}
+
 }
